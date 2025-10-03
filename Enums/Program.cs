@@ -11,7 +11,7 @@ namespace Enums
         enum NotaDeReal_e //enums devem ser declarados fora do metodo main
         {
             NotaDe2 = 2, //separando os valores com virgula, o ultimo nao precisa de nada
-            NotaDe5 = 5, // apenas numeros inteiros
+            NotaDe5 = 5, // apenas numeros inteiros, nao pode com virula
             NotaDe10 = 10
         }
         enum NotaDaProva
